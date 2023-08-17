@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "styled-components": "^6.0.7",
+    "truffle": "^5.7.4"
+  }
+}
