@@ -60,7 +60,7 @@ Overall, this smart contract provides a way to track the various stages of a pro
 ## Create,Compile & Deploy Smart Contract. 
 
 * Open VScode and open VScode Terimal by Ctrl + ' .
-* **Clone Project** Type the following command and press Enter : git clone : ` https://github.com/nowroz13/Supply-Proof.git  
+* **Clone Project** Type the following command and press Enter : git clone : ` [https://github.com/nowroz13/Supply-Proof.git](https://github.com/nowroz13/supply-proof-Prototype.git)  
 * **Install truffle** : Type the following command and press Enter: `npm install -g truffle`
 * **Install dependencies** : Type the following command and press Enter: `npm i`
 * **File structure for  DApp** : 
